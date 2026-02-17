@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[96976,["/_next/static/chunks/25f4c553ca49aca3.js"],"SpendCard"]
+3:I[1077,["/_next/static/chunks/25f4c553ca49aca3.js"],"UsageChart"]
+4:I[1193,["/_next/static/chunks/25f4c553ca49aca3.js"],"ModelBreakdown"]
+5:I[97367,["/_next/static/chunks/f795227749618145.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+0:{"buildId":"h674f_0kHV2RXFWpZEzKh","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-background p-6","children":["$","div",null,{"className":"mx-auto max-w-7xl space-y-6","children":[["$","div",null,{"className":"flex items-center justify-between","children":[["$","h1",null,{"className":"text-3xl font-bold","children":"OpenClaw Cost Dashboard"}],["$","div",null,{"className":"text-sm text-muted-foreground","children":["Last updated: ","9:50:28 AM"]}]]}],["$","div",null,{"className":"grid gap-6 md:grid-cols-2 lg:grid-cols-3","children":[["$","$L2",null,{"tokensUsed":60000,"tokensTotal":200000,"estimatedCost":0.9,"budgetLimit":2}],["$","$L3",null,{"data":[{"date":"00:00","tokens":5000},{"date":"04:00","tokens":12000},{"date":"08:00","tokens":25000},{"date":"12:00","tokens":42000},{"date":"16:00","tokens":60000}]}],["$","$L4",null,{"models":[{"name":"Kimi K2.5","tokens":45000,"cost":0.67},{"name":"Claude Haiku","tokens":15000,"cost":0.23}]}]]}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/25f4c553ca49aca3.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null
